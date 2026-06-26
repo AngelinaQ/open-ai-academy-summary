@@ -25,5 +25,13 @@
 -audience
 -relevant
 
+## 5.file
+Use this file as source material. Summarize the three most important findings, list any recommended actions, and flag anything that may need follow-up.
+Use this template as a model. Rewrite my draft so it follows the same structure and tone.
+
+## 6.search
+Use search to find credible, recent examples of how people use AI at work. Summarize the examples in simple terms and include links to the sources.
+
+
 ## 5. 今日可复用模板
 我想验证“低价低溢价转债在正股强势时有超额收益”，请帮我设计一套严谨的研究流程，包括数据字段、样本过滤、因子定义、调仓规则、交易成本、风险控制、结果评估和失效原因。
